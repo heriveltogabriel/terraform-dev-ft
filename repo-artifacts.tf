@@ -4,4 +4,5 @@ resource "oci_artifacts_repository" "artifacts_repository" {
     is_immutable = var.repository_is_immutable
     repository_type = var.repository_repository_type
     display_name = var.artifact_repository_display_name
+    display_name_2 = var.artifact_repository_display_name_back
 }
