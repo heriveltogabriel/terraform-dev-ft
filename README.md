@@ -1,3 +1,3 @@
 # terraform-dev
 
-Download terraform.
+Download terraform v2
